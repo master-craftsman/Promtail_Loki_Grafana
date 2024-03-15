@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+      "dealership": {
+        "uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90"
+      },
+      "task_executor": {
+        "uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90"
+      },
+      "date_when_completed": "2023-05-26T14:20:33.312Z",
+      "planned_start_date": "2023-05-26T14:20:33.312Z",
+      "planned_complete_date": "2023-05-26T14:20:33.312Z",
+      "context_as_needs_and_orders_b_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+      "context_as_vehicle_b4service_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+      "context_as_legal_event_b_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+      "context_as_legal_document_b_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+      "context_as_communication_b_uuid": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "integration_data_as_json": "{\"test\":\"test\"}",
+      "context_as_shopping_cart_b_uuid": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "is_cancelled": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "dealership": {
+    "uuid": "54577b55-8097-17eb-1b50-2c7854ca8c57"
+  },
+  "task_executor": {
+    "uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90"
+  },
+  "date_when_completed": "2023-05-26T14:20:33.312Z",
+  "context_as_needs_and_orders_b_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+  "context_as_vehicle_b4service_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+  "context_as_legal_event_b_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+  "context_as_legal_document_b_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+  "context_as_business_process_task_b4employee_assign_uuid": "17882de9-fdfc-4847-b533-7292cb2d6f29",
+  "context_as_communication_b_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+  "integration_data_as_json": "{\"test\":\"test\"}",
+  "context_as_shopping_cart_b_uuid": "a3b2fde5-c3b5-48f2-994b-afa642a57e90",
+  "is_cancelled": true
+}

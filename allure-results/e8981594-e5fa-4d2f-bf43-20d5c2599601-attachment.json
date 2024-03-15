@@ -1,0 +1,110 @@
+{
+  "communication_b_uuid": "7ad2d0b0-4f95-4cd9-bc0e-c9879789fb80",
+  "needs_and_orders_b4generalizing_need_uuid": "48cb1305-5d9d-4114-a392-3d981e3f694c",
+  "needs_and_orders_b4need_source_of_cross_selling_uuid": null,
+  "need_source_vehicle_b_uuid": null,
+  "need": {
+    "need_name": "Конкретное предложение покупки НА",
+    "uuid": "c3ec282d-a3e2-4706-9320-678b44fd2ecc",
+    "cost": 5700000,
+    "vin": "KMHYF811DNU069163",
+    "business_domain_name": "Продажа НА",
+    "business_domain_d_uuid": "8094c426-5085-4e7f-8d56-f961ed874929",
+    "business_subdomain_name": "Продажа НА не импортёра физ. лицам",
+    "naob_business_subdomain_d_uuid": "8c7eefb6-fa9b-4812-ad6f-d62f6a8b4384",
+    "persons_or_org_s4salesman_uuid": "7148e2ff-be4d-47a7-9ee6-e9aa847e97f5",
+    "status": "В работе",
+    "good_as_text_description": null
+  },
+  "vehicle": {
+    "uuid": "5f7bd56c-c042-4ac1-b78c-d32af84d771f",
+    "cost": 6450000,
+    "negotiated_unit_price": 6450000,
+    "recommended_retail_price": 6450000,
+    "vin": "KMHYF811DNU069163",
+    "name": "Hyundai Staria",
+    "vehicle_image": {
+      "url": {
+        "url": null
+      }
+    },
+    "business_domain_name": "Продажа НА",
+    "segmentation": null,
+    "buy_price": null,
+    "site_price": null,
+    "work_list_count": null,
+    "latest_markdown_date": null,
+    "days_in_stock": null
+  },
+  "uuid": "c98c4c83-a59f-4a2d-96d3-6473a777df9f",
+  "task_type": {
+    "uuid": "5d944d5e-1d46-4004-9548-586f29e0efc2",
+    "name": "Продажа АСП",
+    "description": "Обобщенная задача",
+    "task_class_uuid": "1450d3e5-ff15-4897-9776-a0952a98204a",
+    "parent_task_type_uuid": null,
+    "sequence_number": null,
+    "context_ref": "3bcee5aa-fc20-40d7-b75d-ac1e2add1c22"
+  },
+  "dealership": {
+    "uuid": "664480c9-67e8-375f-f8b2-2d3a0fa4cde3"
+  },
+  "task_executor": {
+    "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd",
+    "person": {
+      "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd",
+      "surname": "тйыотсве",
+      "name": "патспкс",
+      "middlename": "иитимбсшу",
+      "photo_url": null
+    }
+  },
+  "task_initiator": {
+    "uuid": "591e3039-a405-46cf-9437-f06f8e59c759",
+    "person": {
+      "uuid": "591e3039-a405-46cf-9437-f06f8e59c759",
+      "surname": "ауклоавба",
+      "name": "игеняев",
+      "middlename": "виадларомнви",
+      "photo_url": null
+    }
+  },
+  "client": {
+    "uuid": "0e5c845a-4260-4b72-813b-dbc093aec880",
+    "driving_experience": null,
+    "birthday": null,
+    "sex": null,
+    "person": {
+      "uuid": "0e5c845a-4260-4b72-813b-dbc093aec880",
+      "surname": "Лунтик",
+      "name": "Лунтик",
+      "middlename": null,
+      "photo_url": null,
+      "gender_is_female": null,
+      "birth_date": null,
+      "driving_begin_date": null
+    }
+  },
+  "date_when_created": "2024-03-13T11:26:33.901Z",
+  "date_when_completed": null,
+  "planned_start_date": "2023-05-26T14:20:33.312Z",
+  "planned_complete_date": null,
+  "task_class": {
+    "uuid": "1450d3e5-ff15-4897-9776-a0952a98204a",
+    "name": "Приблизить к продаже",
+    "description": "Продажи (Атомарная). Суть класса: Подзадача \"сформировать корзину / подкорзину с товарами / услугами заданного вида\" в рамках указанного обобщённого Need, подзадача для \"Продать\".; Исполнитель: Из группирующей задачи; Триггерящее/создающее техническое событие: Создание need либо изменение legal_execution_stage; Как фиксируется выполнение/отмена: Автоматически когда у Need (для сервиса - у всех NeedОв сервиса по {клиент + АМ}) legal_execution_stage становится любое следующее / фиксируется sale_is_stopped; Триггер завершения технического события: Изменение legal_execution_stage / sale_is_stopped.",
+    "is_parent": false,
+    "parent_task_class_uuid": "565e87f6-376a-4ce5-842d-47c60c9ba323"
+  },
+  "parent_task_uuid": null,
+  "sequence_number": null,
+  "context_as_need_uuid": "c3ec282d-a3e2-4706-9320-678b44fd2ecc",
+  "context_as_vehicle_uuid": "9bb9720a-aa2b-4484-9b74-4e4664e52ede",
+  "context_as_legal_event_uuid": "9bb9720a-aa2b-4484-9b74-4e4664e52ede",
+  "context_as_legal_document_uuid": "b66bd260-f569-40e7-9022-e3973dfae281",
+  "context_as_task_uuid": null,
+  "context_as_communication_uuid": "b66bd260-f569-40e7-9022-e3973dfae281",
+  "integration_data_as_json": null,
+  "context_as_shopping_cart_uuid": null,
+  "comment_text": null
+}

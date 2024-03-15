@@ -1,0 +1,23 @@
+{
+  "uuid": "6ea34672-ccb6-4c7c-9137-a4de005dec93",
+  "title": "Задача 2F90CC",
+  "body": "У вас новая задача",
+  "template_notify_d": {
+    "uuid": "8294b996-9ea4-4354-9f0b-58d83d83f94f"
+  },
+  "event": {
+    "uuid": "cd8fac0d-8274-4f5b-94f4-e4cee593bb5b"
+  },
+  "persons_or_org_s": {
+    "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+  },
+  "object": {
+    "uuid": "2f90ccb2-8901-4572-b8ac-8f9062c16cbe",
+    "type_uuid": "9cd22f56-0f1c-4558-b67f-73e14f972f4b",
+    "status": "in_progress",
+    "status_ui": "В работе"
+  },
+  "date": "2024-03-13T11:07:32.578Z",
+  "is_sent": false,
+  "is_read": true
+}

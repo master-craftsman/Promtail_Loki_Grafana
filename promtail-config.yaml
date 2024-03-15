@@ -1,0 +1,66 @@
+#server:
+#  http_listen_port: 9080
+#  grpc_listen_port: 0
+#
+#positions:
+#  filename: /tmp/positions.yaml
+#
+#clients:
+#  - url: http://loki:3100/loki/api/v1/push
+#
+#scrape_configs:
+#  - job_name: system
+#    static_configs:
+#      - targets:
+#        - localhost
+#        labels:
+#          job: varlogs
+#          __path__: /var/log/*result.json
+#        pipeline_stages:
+#        - json:
+#            expressions:
+#            status: status
+#            start: start
+#            stop: stop
+#            testname: fullName
+#            definition: name
+#            traces: links[*].url
+#        - drop:
+#            source: labels,historyId,statusDetails,steps,attachments,parameters,statusDetails
+
+
+
+
+server:
+  http_listen_port: 9080
+
+positions:
+  filename: /tmp/positions.yaml
+
+scrape_configs:
+  - job_name: result_files  # Replace with your desired job name
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: varlogs
+          __path__: /var/log/*result.json
+    pipeline_stages:
+      - json:
+          expressions:
+            status: status
+            start: start
+            stop: stop
+            testname: fullName  # Extract full name as test name
+            definition: name  # Extract name as definition
+            traces: links[0].url  # Extract first link URL as traces
+      - drop:
+          source: labels,historyId,statusDetails,steps,attachments,parameters,statusDetails
+
+client:
+  url: http://loki:3100/loki/api/v1/push  # Replace with your Loki URL
+
+
+
+
+

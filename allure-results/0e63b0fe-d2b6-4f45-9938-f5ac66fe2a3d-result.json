@@ -1,0 +1,62 @@
+{
+  "uuid": "0e63b0fe-d2b6-4f45-9938-f5ac66fe2a3d",
+  "historyId": "61e8a7a8-a1c8-4534-9eb6-077ff4c5a70d",
+  "status": "passed",
+  "statusDetails": {},
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Тело запроса POST /taskandevent/v2/collections/tasks",
+      "type": "application/json",
+      "source": "8aae3a7f-3a39-4a12-8a7f-96313947c160-attachment.json"
+    },
+    {
+      "name": "Тело ответа POST /flora/taskandevent/v2/collections/tasks",
+      "type": "application/json",
+      "source": "456131f0-94ab-45dd-ac81-5ea28936e379-attachment.json"
+    }
+  ],
+  "parameters": [],
+  "labels": [
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "framework",
+      "value": "jest"
+    },
+    {
+      "name": "package",
+      "value": "tests"
+    },
+    {
+      "name": "thread",
+      "value": "1"
+    },
+    {
+      "name": "host",
+      "value": "MacBook-Air-2.local"
+    },
+    {
+      "name": "parentSuite",
+      "value": "TAE Smoke Suite Code 2xx"
+    },
+    {
+      "name": "suite",
+      "value": "Tests"
+    }
+  ],
+  "links": [
+    {
+      "name": " /flora/taskandevent/v2/collections/tasks",
+      "url": "https://jaeger-query-TASKANDEVENT-develop.plf-dev.int.rolfcorp.ru/search?&service=TASKANDEVENT&tags={\"x-request-id\":\"d055be908717ab42f8b13348d9da7624\"}",
+      "type": "issue"
+    }
+  ],
+  "start": 1710329192902,
+  "name": "getTasksInfoModels",
+  "fullName": "TAE Smoke Suite Code 2xx Tests getTasksInfoModels",
+  "stop": 1710329194827
+}

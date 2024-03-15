@@ -1,0 +1,20 @@
+{
+  "_filter": [
+    {
+      "id": "employee_for_tasks",
+      "values": [
+        "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      ]
+    }
+  ],
+  "_pagination": {
+    "offset": 0,
+    "row_count": 10
+  },
+  "_sorting": [
+    {
+      "field": "data.date_when_created",
+      "order": "DESC"
+    }
+  ]
+}

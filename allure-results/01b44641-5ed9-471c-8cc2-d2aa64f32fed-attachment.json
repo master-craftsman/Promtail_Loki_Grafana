@@ -1,0 +1,14 @@
+{
+  "channel": "pk_asp_mitsu",
+  "type": "4fbd9402-3c87-46af-ac42-a26fcdea906c",
+  "data": {
+    "uuid": "f7ef2637-2b84-4f95-b407-7791eac537d1",
+    "state": true,
+    "date_begin": "2023-06-21 15:44:13.029387+03",
+    "date_finish": null,
+    "dealership": {
+      "uuid": "664480c9-67e8-375f-f8b2-2d3a0fa4cde3",
+      "name": "ДЦ Алтуфьево Митцубиши"
+    }
+  }
+}

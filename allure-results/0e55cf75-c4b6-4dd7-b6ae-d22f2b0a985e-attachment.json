@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "business_process_task_context_ref_type_d_uuid": "afc7e8e0-8f5b-4541-a207-548f9b84480f",
+      "name": "Клиент (заполнено только client_persons_or_org_s_uuid)"
+    },
+    {
+      "business_process_task_context_ref_type_d_uuid": "d732790b-84b6-41b1-9354-7702e5b4d686",
+      "name": "ТС для сервиса (заполнено context_as_vehicle_b4service_uuid и клиент)"
+    },
+    {
+      "business_process_task_context_ref_type_d_uuid": "3893ad6e-4d21-43e2-bb9c-6818e3748508",
+      "name": "Юридически значимое событие (заполнено context_as_legal_event_b_uuid и клиент)"
+    },
+    {
+      "business_process_task_context_ref_type_d_uuid": "788d9861-4299-42bc-84f0-cc9e8bb54cd0",
+      "name": "Юридически значимый документ (заполнено context_as_legal_document_b_uuid и клиент)"
+    },
+    {
+      "business_process_task_context_ref_type_d_uuid": "31cb0f34-2fce-4aa9-93de-9640a2ce0d18",
+      "name": "Задача для назначения исполнителя (заполнено context_as_business_process_task_b4employee_assign_uuid и клиент)"
+    },
+    {
+      "business_process_task_context_ref_type_d_uuid": "089446ff-689d-485b-bcaf-3aa848b63812",
+      "name": "Коммуникация (заполнено context_as_communication_b_uuid и клиент)"
+    },
+    {
+      "business_process_task_context_ref_type_d_uuid": "1a901604-ddd6-4089-bfe2-67b032ce7e6c",
+      "name": "Корзина потребительского выбора (заполнено context_as_shopping_cart_b_uuid и клиент)"
+    },
+    {
+      "business_process_task_context_ref_type_d_uuid": "ef569a80-bf3f-40c5-800c-596b955373ee",
+      "name": "Платёж (заполнено context_as_payment_b_uuid и клиент)"
+    },
+    {
+      "business_process_task_context_ref_type_d_uuid": "3bcee5aa-fc20-40d7-b75d-ac1e2add1c22",
+      "name": "Потребность / предложение товара или услуги"
+    }
+  ]
+}

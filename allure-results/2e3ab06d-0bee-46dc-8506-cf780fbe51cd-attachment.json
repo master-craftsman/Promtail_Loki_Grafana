@@ -1,0 +1,771 @@
+{
+  "_metadata": {
+    "offset": 0,
+    "row_count": 10,
+    "total_rows": 59860
+  },
+  "_error": null,
+  "_message": null,
+  "data": [
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "d6bdfc63-e1c9-4d1a-a614-df26d9839ab5",
+      "uuid": "2f90ccb2-8901-4572-b8ac-8f9062c16cbe",
+      "dealership": {
+        "uuid": "664480c9-67e8-375f-f8b2-2d3a0fa4cde3",
+        "name": "ДЦ Алтуфьево Митцубиши"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Хасбиева ",
+          "name": "Альбина",
+          "middlename": "Ивановна"
+        },
+        "uuid": "fb3051cf-77b7-44a6-8f0f-2caa9185ff2d"
+      },
+      "date_when_created": "2024-03-13T11:07:32.130Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": "d6bdfc63-e1c9-4d1a-a614-df26d9839ab5",
+        "needs_and_orders_good_type_d_uuid": "f17c233d-bdf3-46e6-96ae-a841e4c6443b",
+        "name": "Кредитование (АСП/НА)",
+        "business_domain_d_uuid": "e805886c-c8d3-4108-b7ec-1cff6ea08231",
+        "business_subdomain_d_uuid": "1dd5c215-e200-4303-8bf1-b2560013ccd2"
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "3bcee5aa-fc20-40d7-b75d-ac1e2add1c22",
+      "task_initiator_persons_or_org_s_uuid": "1f3738ea-aa6c-4b7f-9bab-94aec10a1485",
+      "is_cancelled": false,
+      "task_type": {
+        "uuid": "e63fe3b9-4683-4ee1-8f8f-49f6d4e7f480",
+        "name": "Оформление кредитных продуктов (вторичная продажа)",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "d98ddaab-3c4e-4218-bfcf-ff697a063c9b",
+          "name": "Полный цикл реализации фин. продуктов"
+        }
+      },
+      "task_class": {
+        "uuid": "565e87f6-376a-4ce5-842d-47c60c9ba323",
+        "name": "Продать",
+        "is_parent": true
+      },
+      "business_domain": {
+        "uuid": "e805886c-c8d3-4108-b7ec-1cff6ea08231"
+      },
+      "business_subdomain": {
+        "uuid": "1dd5c215-e200-4303-8bf1-b2560013ccd2"
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "ейвстыто",
+          "name": "мк",
+          "middlename": "днэхе"
+        },
+        "uuid": "1f3738ea-aa6c-4b7f-9bab-94aec10a1485"
+      },
+      "status": "В работе"
+    },
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "5bac7822-e617-4d09-a314-b52627073b20",
+      "uuid": "1a6ccfdd-8924-49dd-aa94-4106b6637671",
+      "dealership": {
+        "uuid": "37ad986e-0f3b-65a4-a462-d3cee621f7df",
+        "name": "ДЦ Алтуфьево Хендэ"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Иванов",
+          "name": "Александр",
+          "middlename": "Анатольевич"
+        },
+        "uuid": "000762ac-8b49-42eb-93a8-0fe7746a3523"
+      },
+      "date_when_created": "2024-03-13T11:05:30.176Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": null,
+        "needs_and_orders_good_type_d_uuid": null,
+        "name": null,
+        "business_domain_d_uuid": null,
+        "business_subdomain_d_uuid": null
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "3bcee5aa-fc20-40d7-b75d-ac1e2add1c22",
+      "task_initiator_persons_or_org_s_uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd",
+      "is_cancelled": false,
+      "task_type": {
+        "uuid": "881dfb13-4de6-4b2f-9355-f93f79c0e8f2",
+        "name": "Определение доп. услуг/товаров.",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "2f11e2e6-2386-486d-8750-31adba9036c4",
+          "name": "Полный цикл реализации АСП"
+        }
+      },
+      "task_class": {
+        "uuid": "f428070a-6d94-4a27-a309-ddf9d87c36bc",
+        "name": "Сформировать часть предложения",
+        "is_parent": true
+      },
+      "business_domain": {
+        "uuid": null
+      },
+      "business_subdomain": {
+        "uuid": null
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "тйыотсве",
+          "name": "патспкс",
+          "middlename": "иитимбсшу"
+        },
+        "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd"
+      },
+      "status": "В работе"
+    },
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "5bac7822-e617-4d09-a314-b52627073b20",
+      "uuid": "ef44c962-a2f4-4b45-b2cf-122fd7e4f1c1",
+      "dealership": {
+        "uuid": "37ad986e-0f3b-65a4-a462-d3cee621f7df",
+        "name": "ДЦ Алтуфьево Хендэ"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Иванов",
+          "name": "Александр",
+          "middlename": "Анатольевич"
+        },
+        "uuid": "000762ac-8b49-42eb-93a8-0fe7746a3523"
+      },
+      "date_when_created": "2024-03-13T11:05:30.169Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": null,
+        "needs_and_orders_good_type_d_uuid": null,
+        "name": null,
+        "business_domain_d_uuid": null,
+        "business_subdomain_d_uuid": null
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "3bcee5aa-fc20-40d7-b75d-ac1e2add1c22",
+      "task_initiator_persons_or_org_s_uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd",
+      "is_cancelled": false,
+      "task_type": {
+        "uuid": "b56e341b-64a4-4a1d-989a-cd777a468c3b",
+        "name": "Подбор доп. оборудования",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "2f11e2e6-2386-486d-8750-31adba9036c4",
+          "name": "Полный цикл реализации АСП"
+        }
+      },
+      "task_class": {
+        "uuid": "f428070a-6d94-4a27-a309-ddf9d87c36bc",
+        "name": "Сформировать часть предложения",
+        "is_parent": true
+      },
+      "business_domain": {
+        "uuid": null
+      },
+      "business_subdomain": {
+        "uuid": null
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "тйыотсве",
+          "name": "патспкс",
+          "middlename": "иитимбсшу"
+        },
+        "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd"
+      },
+      "status": "В работе"
+    },
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "5bac7822-e617-4d09-a314-b52627073b20",
+      "uuid": "fca1b804-dfa0-4b18-b74a-242e9a24894c",
+      "dealership": {
+        "uuid": "37ad986e-0f3b-65a4-a462-d3cee621f7df",
+        "name": "ДЦ Алтуфьево Хендэ"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Иванов",
+          "name": "Александр",
+          "middlename": "Анатольевич"
+        },
+        "uuid": "000762ac-8b49-42eb-93a8-0fe7746a3523"
+      },
+      "date_when_created": "2024-03-13T11:05:30.161Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": null,
+        "needs_and_orders_good_type_d_uuid": null,
+        "name": null,
+        "business_domain_d_uuid": null,
+        "business_subdomain_d_uuid": null
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "afc7e8e0-8f5b-4541-a207-548f9b84480f",
+      "task_initiator_persons_or_org_s_uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd",
+      "is_cancelled": false,
+      "task_type": {
+        "uuid": "c9a2b77e-97c2-451c-b173-d7d6d6720428",
+        "name": "Данные о клиенте",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "3c4e361e-8792-4262-8a71-833daea3b7c4",
+          "name": "Заполнение данных о клиенте"
+        }
+      },
+      "task_class": {
+        "uuid": "05618b42-b227-411d-a801-80522fb0fbb3",
+        "name": "Дозаполнить недостающие данные клиента",
+        "is_parent": false
+      },
+      "business_domain": {
+        "uuid": null
+      },
+      "business_subdomain": {
+        "uuid": null
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "тйыотсве",
+          "name": "патспкс",
+          "middlename": "иитимбсшу"
+        },
+        "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd"
+      },
+      "status": "В работе"
+    },
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "029be791-bd79-4514-aa94-68cb4e7f69ae",
+      "uuid": "2a99c6ad-8f6f-4d8f-8f11-405c2d375f34",
+      "dealership": {
+        "uuid": "664480c9-67e8-375f-f8b2-2d3a0fa4cde3",
+        "name": "ДЦ Алтуфьево Митцубиши"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Корсаков",
+          "name": "Сергей",
+          "middlename": "Владимирович"
+        },
+        "uuid": "dcc89a5a-24f5-4365-ab12-8d280e5cb153"
+      },
+      "date_when_created": "2024-03-13T11:05:15.316Z",
+      "date_when_completed": "2024-03-13T11:08:07.724Z",
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": "029be791-bd79-4514-aa94-68cb4e7f69ae",
+        "needs_and_orders_good_type_d_uuid": "076eee6a-4dbf-454a-9234-f9eb72788bbd",
+        "name": "Страхование",
+        "business_domain_d_uuid": "e805886c-c8d3-4108-b7ec-1cff6ea08231",
+        "business_subdomain_d_uuid": "e23f6ddb-4cf3-4e7c-bcf9-39b0818b764f"
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "3bcee5aa-fc20-40d7-b75d-ac1e2add1c22",
+      "task_initiator_persons_or_org_s_uuid": "d5b89520-b554-4ffa-8c2e-e8293a854e4a",
+      "is_cancelled": true,
+      "task_type": {
+        "uuid": "d8bedc42-49f2-48a7-ba7f-2cf3d7951195",
+        "name": "Оформление страховых продуктов (прямая потребность)",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "d98ddaab-3c4e-4218-bfcf-ff697a063c9b",
+          "name": "Полный цикл реализации фин. продуктов"
+        }
+      },
+      "task_class": {
+        "uuid": "565e87f6-376a-4ce5-842d-47c60c9ba323",
+        "name": "Продать",
+        "is_parent": true
+      },
+      "business_domain": {
+        "uuid": "e805886c-c8d3-4108-b7ec-1cff6ea08231"
+      },
+      "business_subdomain": {
+        "uuid": "e23f6ddb-4cf3-4e7c-bcf9-39b0818b764f"
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "вотсейты",
+          "name": "пруфо",
+          "middlename": "еднэх"
+        },
+        "uuid": "d5b89520-b554-4ffa-8c2e-e8293a854e4a"
+      },
+      "status": "Отменена"
+    },
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "ac7d1f5c-75f1-43f4-9abe-f02761f1612d",
+      "uuid": "2b8a9f19-9281-40f1-a210-7339002726c2",
+      "dealership": {
+        "uuid": "37ad986e-0f3b-65a4-a462-d3cee621f7df",
+        "name": "ДЦ Алтуфьево Хендэ"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Иванов",
+          "name": "Александр",
+          "middlename": "Анатольевич"
+        },
+        "uuid": "000762ac-8b49-42eb-93a8-0fe7746a3523"
+      },
+      "date_when_created": "2024-03-13T11:04:35.389Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": "ac7d1f5c-75f1-43f4-9abe-f02761f1612d",
+        "needs_and_orders_good_type_d_uuid": "72c55e6f-1458-422b-966b-0d8af42b8c2d",
+        "name": "Конкретное предложение покупки НА",
+        "business_domain_d_uuid": "8094c426-5085-4e7f-8d56-f961ed874929",
+        "business_subdomain_d_uuid": null
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "3bcee5aa-fc20-40d7-b75d-ac1e2add1c22",
+      "task_initiator_persons_or_org_s_uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd",
+      "is_cancelled": false,
+      "task_type": {
+        "uuid": "881dfb13-4de6-4b2f-9355-f93f79c0e8f2",
+        "name": "Определение доп. услуг/товаров.",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "2f11e2e6-2386-486d-8750-31adba9036c4",
+          "name": "Полный цикл реализации АСП"
+        }
+      },
+      "task_class": {
+        "uuid": "f428070a-6d94-4a27-a309-ddf9d87c36bc",
+        "name": "Сформировать часть предложения",
+        "is_parent": true
+      },
+      "business_domain": {
+        "uuid": "8094c426-5085-4e7f-8d56-f961ed874929"
+      },
+      "business_subdomain": {
+        "uuid": null
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "тйыотсве",
+          "name": "патспкс",
+          "middlename": "иитимбсшу"
+        },
+        "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd"
+      },
+      "status": "В работе"
+    },
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "ac7d1f5c-75f1-43f4-9abe-f02761f1612d",
+      "uuid": "6ad9354c-0f45-4c58-a1b1-eb8fd8fa6ac7",
+      "dealership": {
+        "uuid": "37ad986e-0f3b-65a4-a462-d3cee621f7df",
+        "name": "ДЦ Алтуфьево Хендэ"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Иванов",
+          "name": "Александр",
+          "middlename": "Анатольевич"
+        },
+        "uuid": "000762ac-8b49-42eb-93a8-0fe7746a3523"
+      },
+      "date_when_created": "2024-03-13T11:04:35.370Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": "ac7d1f5c-75f1-43f4-9abe-f02761f1612d",
+        "needs_and_orders_good_type_d_uuid": "72c55e6f-1458-422b-966b-0d8af42b8c2d",
+        "name": "Конкретное предложение покупки НА",
+        "business_domain_d_uuid": "8094c426-5085-4e7f-8d56-f961ed874929",
+        "business_subdomain_d_uuid": null
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "3bcee5aa-fc20-40d7-b75d-ac1e2add1c22",
+      "task_initiator_persons_or_org_s_uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd",
+      "is_cancelled": false,
+      "task_type": {
+        "uuid": "b56e341b-64a4-4a1d-989a-cd777a468c3b",
+        "name": "Подбор доп. оборудования",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "2f11e2e6-2386-486d-8750-31adba9036c4",
+          "name": "Полный цикл реализации АСП"
+        }
+      },
+      "task_class": {
+        "uuid": "f428070a-6d94-4a27-a309-ddf9d87c36bc",
+        "name": "Сформировать часть предложения",
+        "is_parent": true
+      },
+      "business_domain": {
+        "uuid": "8094c426-5085-4e7f-8d56-f961ed874929"
+      },
+      "business_subdomain": {
+        "uuid": null
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "тйыотсве",
+          "name": "патспкс",
+          "middlename": "иитимбсшу"
+        },
+        "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd"
+      },
+      "status": "В работе"
+    },
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "ac7d1f5c-75f1-43f4-9abe-f02761f1612d",
+      "uuid": "6839667c-b37f-4f77-beba-1e5da7c07360",
+      "dealership": {
+        "uuid": "37ad986e-0f3b-65a4-a462-d3cee621f7df",
+        "name": "ДЦ Алтуфьево Хендэ"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Иванов",
+          "name": "Александр",
+          "middlename": "Анатольевич"
+        },
+        "uuid": "000762ac-8b49-42eb-93a8-0fe7746a3523"
+      },
+      "date_when_created": "2024-03-13T11:04:35.357Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": null,
+        "needs_and_orders_good_type_d_uuid": null,
+        "name": null,
+        "business_domain_d_uuid": null,
+        "business_subdomain_d_uuid": null
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "afc7e8e0-8f5b-4541-a207-548f9b84480f",
+      "task_initiator_persons_or_org_s_uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd",
+      "is_cancelled": false,
+      "task_type": {
+        "uuid": "c9a2b77e-97c2-451c-b173-d7d6d6720428",
+        "name": "Данные о клиенте",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "3c4e361e-8792-4262-8a71-833daea3b7c4",
+          "name": "Заполнение данных о клиенте"
+        }
+      },
+      "task_class": {
+        "uuid": "05618b42-b227-411d-a801-80522fb0fbb3",
+        "name": "Дозаполнить недостающие данные клиента",
+        "is_parent": false
+      },
+      "business_domain": {
+        "uuid": "8094c426-5085-4e7f-8d56-f961ed874929"
+      },
+      "business_subdomain": {
+        "uuid": null
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "тйыотсве",
+          "name": "патспкс",
+          "middlename": "иитимбсшу"
+        },
+        "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd"
+      },
+      "status": "В работе"
+    },
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "6ebe909b-1548-4b82-90dd-0411abafb3c1",
+      "uuid": "cc0a3804-49a3-4088-90dc-cadb25a3ec4b",
+      "dealership": {
+        "uuid": "664480c9-67e8-375f-f8b2-2d3a0fa4cde3",
+        "name": "ДЦ Алтуфьево Митцубиши"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Корсаков",
+          "name": "Сергей",
+          "middlename": "Владимирович"
+        },
+        "uuid": "dcc89a5a-24f5-4365-ab12-8d280e5cb153"
+      },
+      "date_when_created": "2024-03-13T11:04:27.305Z",
+      "date_when_completed": "2024-03-13T11:05:13.582Z",
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": "6ebe909b-1548-4b82-90dd-0411abafb3c1",
+        "needs_and_orders_good_type_d_uuid": "076eee6a-4dbf-454a-9234-f9eb72788bbd",
+        "name": "Страхование",
+        "business_domain_d_uuid": "e805886c-c8d3-4108-b7ec-1cff6ea08231",
+        "business_subdomain_d_uuid": "e23f6ddb-4cf3-4e7c-bcf9-39b0818b764f"
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "3bcee5aa-fc20-40d7-b75d-ac1e2add1c22",
+      "task_initiator_persons_or_org_s_uuid": "d5b89520-b554-4ffa-8c2e-e8293a854e4a",
+      "is_cancelled": false,
+      "task_type": {
+        "uuid": "d8bedc42-49f2-48a7-ba7f-2cf3d7951195",
+        "name": "Оформление страховых продуктов (прямая потребность)",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "d98ddaab-3c4e-4218-bfcf-ff697a063c9b",
+          "name": "Полный цикл реализации фин. продуктов"
+        }
+      },
+      "task_class": {
+        "uuid": "565e87f6-376a-4ce5-842d-47c60c9ba323",
+        "name": "Продать",
+        "is_parent": true
+      },
+      "business_domain": {
+        "uuid": "e805886c-c8d3-4108-b7ec-1cff6ea08231"
+      },
+      "business_subdomain": {
+        "uuid": "e23f6ddb-4cf3-4e7c-bcf9-39b0818b764f"
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "вотсейты",
+          "name": "пруфо",
+          "middlename": "еднэх"
+        },
+        "uuid": "d5b89520-b554-4ffa-8c2e-e8293a854e4a"
+      },
+      "status": "Выполнена"
+    },
+    {
+      "needs_and_orders_b4task_list_carrier_uuid": "7ed70ae4-7475-492b-b5b1-cfd34dbc9de8",
+      "uuid": "c433dd0a-6564-4eb8-b093-4b7e3ab4a0b7",
+      "dealership": {
+        "uuid": "37ad986e-0f3b-65a4-a462-d3cee621f7df",
+        "name": "ДЦ Алтуфьево Хендэ"
+      },
+      "employee": {
+        "person": {
+          "surname": "икосндраи",
+          "name": "угифьял",
+          "middlename": "инонаварт"
+        },
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "client": {
+        "person": {
+          "surname": "Иванов",
+          "name": "Александр",
+          "middlename": "Анатольевич"
+        },
+        "uuid": "000762ac-8b49-42eb-93a8-0fe7746a3523"
+      },
+      "date_when_created": "2024-03-13T11:04:26.685Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "context_as_need_uuid": {
+        "needs_and_orders_b_uuid": null,
+        "needs_and_orders_good_type_d_uuid": null,
+        "name": null,
+        "business_domain_d_uuid": null,
+        "business_subdomain_d_uuid": null
+      },
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": null,
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "context_as_payment_uuid": null,
+      "business_process_task_context_ref_type_d_uuid": "afc7e8e0-8f5b-4541-a207-548f9b84480f",
+      "task_initiator_persons_or_org_s_uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd",
+      "is_cancelled": false,
+      "task_type": {
+        "uuid": "c9a2b77e-97c2-451c-b173-d7d6d6720428",
+        "name": "Данные о клиенте",
+        "business_tasks_subset_d": {
+          "business_tasks_subset_d_uuid": "3c4e361e-8792-4262-8a71-833daea3b7c4",
+          "name": "Заполнение данных о клиенте"
+        }
+      },
+      "task_class": {
+        "uuid": "05618b42-b227-411d-a801-80522fb0fbb3",
+        "name": "Дозаполнить недостающие данные клиента",
+        "is_parent": false
+      },
+      "business_domain": {
+        "uuid": "8094c426-5085-4e7f-8d56-f961ed874929"
+      },
+      "business_subdomain": {
+        "uuid": null
+      },
+      "initiator_employee": {
+        "person": {
+          "surname": "тйыотсве",
+          "name": "патспкс",
+          "middlename": "иитимбсшу"
+        },
+        "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd"
+      },
+      "status": "В работе"
+    }
+  ]
+}

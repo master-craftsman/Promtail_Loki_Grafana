@@ -1,0 +1,27 @@
+{
+  "task_type": {
+    "uuid": "5d944d5e-1d46-4004-9548-586f29e0efc2"
+  },
+  "dealership": {
+    "uuid": "664480c9-67e8-375f-f8b2-2d3a0fa4cde3"
+  },
+  "task_executor": {
+    "uuid": "b93f309e-153d-4148-9a24-a1932fbc62fd"
+  },
+  "date_when_completed": "2023-05-26T14:20:33.312Z",
+  "planned_start_date": "2023-05-26T14:20:33.312Z",
+  "client": {
+    "uuid": "0e5c845a-4260-4b72-813b-dbc093aec880"
+  },
+  "context_as_need_uuid": "c3ec282d-a3e2-4706-9320-678b44fd2ecc",
+  "context_as_vehicle_uuid": "9bb9720a-aa2b-4484-9b74-4e4664e52ede",
+  "context_as_legal_event_uuid": "9bb9720a-aa2b-4484-9b74-4e4664e52ede",
+  "context_as_legal_document_uuid": "b66bd260-f569-40e7-9022-e3973dfae281",
+  "context_as_communication_uuid": "b66bd260-f569-40e7-9022-e3973dfae281",
+  "task_initiator": {
+    "uuid": "591e3039-a405-46cf-9437-f06f8e59c759"
+  },
+  "task_list_carrier": {
+    "uuid": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "_error": null,
+  "_message": null,
+  "data": [
+    {
+      "uuid": "cb135aa1-f302-40a5-9a94-dc71394dd35c",
+      "ui_id": "cb135a",
+      "status": "in_progress",
+      "status_ui": "В работе",
+      "task_type": {
+        "uuid": "7b1fd882-6323-4b59-b4aa-181d8aac80d6",
+        "name": "Подписать ДКП",
+        "description": "Подписать ДКП",
+        "task_class_uuid": "aea19fb3-0f3c-4a7e-a917-3600bdfefda8",
+        "parent_task_type_uuid": null,
+        "sequence_number": null,
+        "business_tasks_subset_d_uuid": "2f11e2e6-2386-486d-8750-31adba9036c4",
+        "business_process_task_context_ref_type_d_uuid": "788d9861-4299-42bc-84f0-cc9e8bb54cd0"
+      },
+      "dealership": {
+        "uuid": "664480c9-67e8-375f-f8b2-2d3a0fa4cde3"
+      },
+      "task_class": {
+        "uuid": "aea19fb3-0f3c-4a7e-a917-3600bdfefda8",
+        "name": "Подписать /зафиксировать юридически значимый документ",
+        "description": "Продажи (Атомарная). Суть класса: Подписать /зафиксировать LD, подзадача для \"Осуществить LE\"; Исполнитель: Из группирующей задачи; Триггерящее/создающее техническое событие: Создание LD; Как фиксируется выполнение/отмена: LD как цифровой след документа (скан или файл записи или выдержка из журнала с координатами в журнале) фиксируется в соответствующих хранилищах; Триггер завершения технического события: Появился полный цифровой след подписанного LD.",
+        "is_parent": false,
+        "parent_task_class_uuid": "6ccbb126-1968-42c9-b0c1-7f0669f3a81b"
+      },
+      "task_executor": {
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "date_when_created": "2024-03-13T11:27:07.748Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "client": {
+        "uuid": "01791072-d712-463d-a5e3-5393bfde9f2a"
+      },
+      "context_as_need_uuid": null,
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": "b66bd260-f569-40e7-9022-e3973dfae281",
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "context_as_payment_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "task_context_ref_type_uuid": "788d9861-4299-42bc-84f0-cc9e8bb54cd0",
+      "task_initiator": {
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "is_cancelled": false,
+      "task_list_carrier": {
+        "uuid": "751c3f23-16cd-457d-a484-d27542e65038"
+      }
+    },
+    {
+      "uuid": "ecc6ca00-dae5-4ed6-8cce-4e22af8ce191",
+      "ui_id": "ecc6ca",
+      "status": "in_progress",
+      "status_ui": "В работе",
+      "task_type": {
+        "uuid": "c8765990-ada6-467e-9cbe-5520c28a9e4f",
+        "name": "Загрузить ДКП",
+        "description": "Загрузить ДКП",
+        "task_class_uuid": "aea19fb3-0f3c-4a7e-a917-3600bdfefda8",
+        "parent_task_type_uuid": null,
+        "sequence_number": null,
+        "business_tasks_subset_d_uuid": "2f11e2e6-2386-486d-8750-31adba9036c4",
+        "business_process_task_context_ref_type_d_uuid": "788d9861-4299-42bc-84f0-cc9e8bb54cd0"
+      },
+      "dealership": {
+        "uuid": "664480c9-67e8-375f-f8b2-2d3a0fa4cde3"
+      },
+      "task_class": {
+        "uuid": "aea19fb3-0f3c-4a7e-a917-3600bdfefda8",
+        "name": "Подписать /зафиксировать юридически значимый документ",
+        "description": "Продажи (Атомарная). Суть класса: Подписать /зафиксировать LD, подзадача для \"Осуществить LE\"; Исполнитель: Из группирующей задачи; Триггерящее/создающее техническое событие: Создание LD; Как фиксируется выполнение/отмена: LD как цифровой след документа (скан или файл записи или выдержка из журнала с координатами в журнале) фиксируется в соответствующих хранилищах; Триггер завершения технического события: Появился полный цифровой след подписанного LD.",
+        "is_parent": false,
+        "parent_task_class_uuid": "6ccbb126-1968-42c9-b0c1-7f0669f3a81b"
+      },
+      "task_executor": {
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "date_when_created": "2024-03-13T11:27:07.748Z",
+      "date_when_completed": null,
+      "planned_start_date": null,
+      "planned_complete_date": null,
+      "parent_task_uuid": null,
+      "sequence_number": null,
+      "client": {
+        "uuid": "01791072-d712-463d-a5e3-5393bfde9f2a"
+      },
+      "context_as_need_uuid": null,
+      "context_as_vehicle_uuid": null,
+      "context_as_legal_event_uuid": null,
+      "context_as_legal_document_uuid": "b66bd260-f569-40e7-9022-e3973dfae281",
+      "context_as_task_uuid": null,
+      "context_as_communication_uuid": null,
+      "context_as_payment_uuid": null,
+      "integration_data_as_json": null,
+      "context_as_shopping_cart_uuid": null,
+      "task_context_ref_type_uuid": "788d9861-4299-42bc-84f0-cc9e8bb54cd0",
+      "task_initiator": {
+        "uuid": "738f1e57-0957-4325-b971-6f1f6f04c5ef"
+      },
+      "is_cancelled": false,
+      "task_list_carrier": {
+        "uuid": "751c3f23-16cd-457d-a484-d27542e65038"
+      }
+    }
+  ]
+}

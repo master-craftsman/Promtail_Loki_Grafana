@@ -1,0 +1,18 @@
+{
+  "data": {
+    "statusCode": 404,
+    "error": "Not Found",
+    "_error": {
+      "code": "PGS-002",
+      "text": "Ошибка при получении записи из БД: задачи не найдены",
+      "details": {
+        "time": "2024-03-13T11:26:35.527Z",
+        "method": null,
+        "url": null,
+        "definition_name": null,
+        "stack": null,
+        "external_error": null
+      }
+    }
+  }
+}
